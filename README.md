@@ -48,7 +48,7 @@
 
 ### Useful resources
 
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+- [Font Kinda Cool](https://cdnjs.com/libraries/font-awesome) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
 - [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
