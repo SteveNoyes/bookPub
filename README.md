@@ -1,24 +1,15 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Featured Section](#featured-section)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
 
-
-### Screenshot
-
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
-
-![](./screenshot.jpg)
+  Book Preview of A Life in Waiting
 
 ### Links
 
@@ -29,30 +20,13 @@
 
 ### Built with
 
-- HTML5 markup
+- HTML
 - CSS  
-- Vanilla JavaScript
 - Mobile workflow
-
-### Featured Section
-
-
-```html
-```
-
-```css
-```
-
-```js
-```
 
 ### Useful resources
 
 - [Font Kinda Cool](https://cdnjs.com/libraries/font-awesome) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
 ## Author
 
