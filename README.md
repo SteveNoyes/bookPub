@@ -9,7 +9,9 @@
 
 ## Overview
 
-  Book Preview of A Life in Waiting
+  Book Preview of:
+  
+    A Life in Waiting
 
 ### Links
 

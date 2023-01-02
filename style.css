@@ -1,7 +1,7 @@
 * {
   border: 0;
   margin: 0;
-
+  box-sizing: border-box;
 }
 :root {
   --mobile-width: 325px;
@@ -22,4 +22,40 @@
   align-items: center;
   justify-content: center;
   background-color: var(--bg);
+}
+
+.mobile-layout {
+  width: var(--mobile-width);
+  height: var(--mobile-height);
+  margin: 30px 0;
+  border-radius: var(--mobile-radius);
+  perspective: 500px;
+  overflow: hidden;
+  color: var(--font-color);
+  background-color: var(--mobile-bg);
+  box-shadow: 36px 36px 50px 15px #eed7d1d1;
+}
+
+.mobile-layout .notification-header {
+  position: fixed;
+  top: 5px;
+  width: 100%;
+  padding: 5px 15px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+  z-index: 6;
+}
+
+.mobile-layout .actions {
+  position: fixed;
+  top: 37px;
+  width: 100%;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  z-index: 6;
 }
