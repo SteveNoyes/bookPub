@@ -59,3 +59,33 @@
   font-size: 20px;
   z-index: 6;
 }
+
+.mobile-layout .book-cover {
+  position: relative;
+  height: var(--separator-height);
+  width: calc(var(--mobile-width) * 2);
+  left: -52.5%;
+  border-top-left-radius: var(--mobile-radius);
+  border-top-right-radius: var(--mobile-radius);
+  background-color: var(--intro-bg);
+  transform-style: preserve-3d;
+  transform-origin: 50% 40%;
+  transition: var(--transition);
+  z-index: 4;
+}
+
+.mobile-layout .book-top {
+  width: 170px;
+  position: absolute;
+  top: 220px;
+  left: 250px;
+  z-index: 5;
+  transform: translateZ(28.5px);
+}
+
+.mobile-layout .book-side {
+  position: absolute;
+  top: 430px;
+  left: 222px;
+  transform: translateY(-15px) translateX(0px) translateZ(15px) rotateX(104deg);
+}
