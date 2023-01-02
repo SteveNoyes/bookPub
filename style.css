@@ -4,10 +4,15 @@
 
 }
 :root {
+  --mobile-width: 325px;
+  --mobile-height: 670px;
+  --mobile-radius: 25px;
+  --separator-height: 500px;
   --bg: #fdf3f2;
   --mobile-bg: #fdeae6;
   --intro-bg: #eed7d1;
   --font-color: #807b7b;
+  --transition: transform 0.7s ease-in-out;
 }
 
 .container {
